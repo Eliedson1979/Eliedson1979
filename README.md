@@ -1,4 +1,6 @@
 ## Olá 👋
+<img src="https://becode.com.br/wp-content/uploads/2017/05/Come%C3%A7ar-com-Java.gif" alt="rails" width="1280" height="auto" style="max-width:100%;"></img>
+
 ## Eu sou Eliedson Gomes: 
 * eu moro em caruaru-pernambuco-:brazil:.😎🌅
 * Atualmente trabalhando no grupoprovider.🖥️🤤
@@ -40,7 +42,7 @@
 
 ## Indice:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliedson1979&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliedson1979&layout=compact)](https://github.com/Eliedson1979/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliedson1979a&langs_count=8)](https://github.com/Eliedson1979/github-readme-stats)
 
 
 
