@@ -1,5 +1,4 @@
 ## Olá 👋
-<img src="https://miro.medium.com/max/1400/1*GKSUn8nIBnFy07luMC5wlw.gif" alt="rails" width="1280" height="auto" style="max-width:100%;"></img>
 
 ## Eu sou Eliedson Gomes: 
 * eu moro em caruaru-pernambuco-:brazil:.😎🌅
