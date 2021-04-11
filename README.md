@@ -34,6 +34,19 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 
+## Framework que ultilizo:
+<img src="https://img.shields.io/badge/Visual%20Code-Otimo-green"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-Otimo-blue"/>
+<img src="https://img.shields.io/badge/DEV%20C%2B%2B-Otimo-blue"/>
+<img src="https://img.shields.io/badge/NetBeans-Otimo-red"/>
+<img src="https://img.shields.io/badge/CodeBlocks-Otimo-bluee"/>
+<img src="https://img.shields.io/badge/PyCharms-Otimo-red"/>
+<img src="https://img.shields.io/badge/Eclipse%20IDE-Otimo-blue"/>
+<img src="https://img.shields.io/badge/Docker-Otimo-blue"/>
+<img src="https://img.shields.io/badge/Logisim-Otimo-brightgreen"/>
+<img src="https://img.shields.io/badge/VisualG-Otimo-red"/>
+<img src="https://img.shields.io/badge/Scratch-Otimo-orange"/>
+
 ## Apredendo:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
