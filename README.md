@@ -1,5 +1,5 @@
 ## Olá 👋
-<img src="https://becode.com.br/wp-content/uploads/2017/05/Come%C3%A7ar-com-Java.gif" alt="rails" width="1280" height="auto" style="max-width:100%;"></img>
+<img src="https://miro.medium.com/max/1400/1*GKSUn8nIBnFy07luMC5wlw.gif" alt="rails" width="1280" height="auto" style="max-width:100%;"></img>
 
 ## Eu sou Eliedson Gomes: 
 * eu moro em caruaru-pernambuco-:brazil:.😎🌅
@@ -42,6 +42,5 @@
 
 ## Indice:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliedson1979&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
