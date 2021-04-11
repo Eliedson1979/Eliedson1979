@@ -42,7 +42,6 @@
 
 ## Indice:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliedson1979&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliedson1979a&langs_count=8)](https://github.com/Eliedson1979/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
