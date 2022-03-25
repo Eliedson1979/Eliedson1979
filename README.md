@@ -1,7 +1,7 @@
 ## Olá 👋
 
 ## Eu sou Eliedson Gomes: 
-* Moro em Caruaru-Cabo-pernambuco-:brazil:.😎🌅
+* Moro em Caruaru-pernambuco-:brazil:.😎🌅
 * Atualmente Estudando pela TRYBE.🖥️🤤
 * Tenho aprendido mais sobre Ruby on Rails 💖
  
