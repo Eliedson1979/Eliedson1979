@@ -1,8 +1,8 @@
 ## Olá 👋
 
 ## Eu sou Eliedson Gomes: 
-* Moro em Ponte dos Carvalhos-Cabo-pernambuco-:brazil:.😎🌅
-* Atualmente trabalhando no grupoprovider.🖥️🤤
+* Moro em Caruaru-Cabo-pernambuco-:brazil:.😎🌅
+* Atualmente Estudando pela TRYBE.🖥️🤤
 * Tenho aprendido mais sobre Ruby on Rails 💖
  
 ## Conecte-se comigo:
