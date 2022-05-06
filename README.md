@@ -53,6 +53,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 
 ## Indice:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliedson1979&show_icons=true&theme=radical)
-
+<div>
+  <a href="https://github.com/Eliedson1979">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eliedson1979&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliedson1979&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
