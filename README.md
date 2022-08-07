@@ -3,7 +3,7 @@
 ## Eu sou Eliedson Gomes: 
 * Moro em Caruaru-pernambuco-:brazil:.😎🌅
 * Atualmente Estudando pela TRYBE.🖥️🤤
-* Tenho aprendido mais sobre Ruby on Rails 💖
+* Tenho aprendido mais sobre Desenvolvimento Wev 💖
  
 ## Conecte-se comigo:
 <a href="https://www.linkedin.com/in/eliedson-gomes-41034b11a/" target="_blank">
