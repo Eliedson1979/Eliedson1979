@@ -130,7 +130,11 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Eliedson1979}/count.svg" /></p> 
 <br></div
 
-
+<div align="center">
+  
+  ![Snake animation](https://github.com/Eliedson1979/Eliedson1979/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 
 
