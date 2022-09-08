@@ -55,7 +55,7 @@
             </td>
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            <img height="32px" src="https://img.icons8.com/ios-filled/50/12B886/github-2.png">
             </td>
         </tr>
         <tr valign="top">
