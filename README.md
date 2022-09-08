@@ -1,9 +1,11 @@
 ## Olá 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times%2C+Times+New+Roman%2C+serif&size=30&pause=1000&center=verdadeiro&vCenter=falso&width=435&lines=Be+Welcome!)](https://git.io/typing-svg)
+
 ## Eu sou Eliedson Gomes: 
 * Moro em Caruaru-pernambuco-:brazil:.😎🌅
 * Atualmente Estudando pela TRYBE.🖥️🤤
-* Tenho aprendido mais sobre Desenvolvimento Wev 💖
+* Tenho aprendido mais sobre Desenvolvimento Web 💖
 
 
  
@@ -55,9 +57,41 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 
 ## Indice:
-<div>
-  <a href="https://github.com/Eliedson1979">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eliedson1979&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliedson1979&layout=compact&langs_count=16&theme=radical"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eliedson1979&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Eliedson Gomes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliedson1979&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Eliedson1979&theme=gotham&hide_border=true&area=true)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Eliedson1979&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Eliedson1979}/count.svg" /></p> 
+<br></div
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
