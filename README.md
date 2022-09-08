@@ -20,25 +20,82 @@
 <img align="center" alt="portfolio-eliedson" height="30" width="40" src="https://icons.iconarchive.com/icons/aha-soft/standard-portfolio/128/Resume-icon.png" style="max-width:100%;"> 
 </a> 
 
-## Minhas habilidades:
-<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/visual-studio-code-insiders-icon.png" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://icons.iconarchive.com/icons/icons8/windows-8/128/Programming-Github-icon.png" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+## Languages and Tools:
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Javascript</strong></span><br>
+            <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>React</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Jest</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+            <td width="80px" align="center">
+            <span><strong>RTL</strong></span><br>
+            <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>PHP</strong></span><br>
+            <img height="32" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Mysql</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Node</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+            <td width="80px" align="center">
+            <span><strong>Jest</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Redux</strong></span><br>
+            <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Figma</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>ESLint</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
+            <td width="80px" align="center">
+            <span><strong>Bootstrap</strong></span><br>
+            <img height="32px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-## Framework que ultilizo:
+## Framework I use:
 <img src="https://img.shields.io/badge/Visual%20Code-Otimo-green"></img>
 <img src="https://img.shields.io/badge/Visual%20Studio-Otimo-blue"></img>
 <img src="https://img.shields.io/badge/DEV%20C%2B%2B-Otimo-blue"></img>
@@ -50,11 +107,6 @@
 <img src="https://img.shields.io/badge/Logisim-Otimo-brightgreen"></img>
 <img src="https://img.shields.io/badge/VisualG-Otimo-red"></img>
 <img src="https://img.shields.io/badge/Scratch-Otimo-orange"></img>
-
-## Apredendo:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 
 ## Indice:
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
