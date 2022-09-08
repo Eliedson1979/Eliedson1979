@@ -133,7 +133,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Eliedson1979/Eliedson1979/blob/output/github-contribution-grid-snake.svg)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Eliedson1979/Eliedson1979/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Eliedson1979/Eliedson1979/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   
 </div>
 
