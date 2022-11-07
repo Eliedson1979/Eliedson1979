@@ -12,16 +12,25 @@
 
  
 ## My Social Networks:
-<a href="https://www.linkedin.com/in/eliedson-gomes-41034b11a/" target="_blank">
-<img align="center" alt="eliedson-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
-</a>  
-<a href="https://www.facebook.com/eliedsonsantos1979/" target="_blank">
-<img align="center" alt="eliedson-facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" style="max-width:100%;"> 
-</a>  
-<a href="https://portfolio-eliedson.netlify.app/" target="_blank">
-<img align="center" alt="portfolio-eliedson" height="30" width="40" src="https://icons.iconarchive.com/icons/aha-soft/standard-portfolio/128/Resume-icon.png" style="max-width:100%;"> 
-</a> 
-
+<table width="320px">
+  <tbody>
+   <tr valign="top">
+       <td width="80px" align="center">
+       <span><strong>Facebook</strong></span><br>
+       <a target="_blank" href="https://www.linkedin.com/in/eliedson-gomes-41034b11a/"><img src="https://img.icons8.com/color/48/null/facebook-new.png"/></a>
+       </td>
+       <td width="80px" align="center">
+       <span><strong>Linkedin</strong></span><br>
+       <a target="_blank" href="https://www.linkedin.com/in/eliedson-gomes-41034b11a/"><img src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png"/></a>
+       </td>
+       <td width="80px" align="center">
+       <span><strong>Portfólio</strong></span><br>
+       <a target="_blank" href="https://portfolio-eliedson.netlify.app/"><img src="https://img.icons8.com/ios-filled/50/22C3E6/portfolio.png"/></a>
+       </td>
+   </tr> 
+  </tbody>
+</table>
+  
 ## Languages and Tools:
 <table width="320px">
     <tbody>
