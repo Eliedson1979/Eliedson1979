@@ -73,8 +73,8 @@
             <span><strong>Node</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
             <td width="80px" align="center">
-            <span><strong>Jest</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+            <span><strong>Docker</strong></span><br>
+            <img src="https://img.icons8.com/fluency/48/null/docker.png"/>
             </td>
         </tr>
         <tr valign="top">
