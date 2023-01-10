@@ -25,7 +25,7 @@
        </td>
        <td width="80px" align="center">
        <span><strong>Portfólio</strong></span><br>
-       <a target="_blank" href="https://portfolio-eliedson.netlify.app/"><img src="https://img.icons8.com/ios-filled/50/22C3E6/portfolio.png"/></a>
+       <a target="_blank" href="https://eliedson-portfolio.netlify.app/"><img src="https://img.icons8.com/ios-filled/50/22C3E6/portfolio.png"/></a>
        </td>
    </tr> 
   </tbody>
