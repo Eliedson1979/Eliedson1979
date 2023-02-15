@@ -8,7 +8,7 @@
 * Moro em Caruaru-pernambuco-:brazil:.😎🌅
 * Atualmente Estudando pela TRYBE.🖥️🤤
 * Tenho aprendido mais sobre Desenvolvimento Web 💖
-
+* Meu Email pra contato: eliedson.dev@gmail.com 📬
 
  
 ## My Social Networks:
