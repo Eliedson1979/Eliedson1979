@@ -6,7 +6,7 @@
 <img align="right" height="200" width="200" alt="eliedson" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
 * Moro em Caruaru-pernambuco-:brazil:.😎🌅
-* Atualmente Estudando pela TRYBE.🖥️🤤
+* Atualmente Estudando Desenvolvimento Web pela TRYBE.🖥️🤤
 * Tenho aprendido mais sobre Desenvolvimento Web 💖
 * Meu Email pra contato: eliedson.dev@gmail.com 📬
 
