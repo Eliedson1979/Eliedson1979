@@ -66,6 +66,10 @@
               <span><strong>Bootstrap</strong></span><br>
               <img height="32px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
             </td>
+            <td width="80px" align="center">
+              <span><strong>Trello</strong></span><br>
+              <img height="32px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg">
+            </td>
           </tr>
           <tr>
             <td colspan="8" align="center"><strong>Back-End</strong></td>
@@ -97,7 +101,7 @@
             </td>
             <td width="80px" align="center">
               <span><strong>Sequelize</strong></span><br>
-              <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"/>
+              <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" />
             </td>
             <td width="80px" align="center">
               <span><strong>npm</strong></span><br>
@@ -124,6 +128,14 @@
               <span><strong>RTL</strong></span><br>
               <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
             </td>
+            <td width="80px" align="center">
+              <span><strong>CY</strong></span><br>
+              <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg">
+            </td>
+           <td width="80px" align="center">
+             <span><strong>Jasmine</strong></span><br>
+             <img height="32" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg">
+           </td>
             <tr>
               <td colspan="8" align="center"><strong>Others</strong></td>
             </tr>
@@ -143,6 +155,14 @@
               <td width="80px" align="center">
                 <span><strong>Python</strong></span><br>
                 <img height="32" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+              </td>
+              <td width="80px" align="center">
+                <span><strong>Java</strong></span><br>
+                <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+              </td>
+              <td width="80px" align="center">
+                <span><strong>Insomnia</strong></span><br>
+                <img src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/8370e7c8f1fbbfdb66f08a325a6c1cd8b932afb3/apps/scalable/insomnia.svg" />
               </td>
         </tbody>
       </table>
