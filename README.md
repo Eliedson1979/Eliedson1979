@@ -31,8 +31,8 @@
   </tbody>
 </table>
   
-## Languages and Tools:
-<table width="320px">
+## Languages and Tools 🛠️:
+<table width="320px" align="center">
         <tbody>
           <tr>
             <td colspan="8" align="center"><strong>Front-End</strong></td>
@@ -97,15 +97,15 @@
             </td>
             <td width="80px" align="center">
               <span><strong>Docker</strong></span><br>
-              <img src="https://img.icons8.com/fluency/48/null/docker.png"/>
+              <img height="32px" src="https://img.icons8.com/fluency/48/null/docker.png"/>
             </td>
             <td width="80px" align="center">
               <span><strong>Sequelize</strong></span><br>
-              <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" />
+              <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" />
             </td>
             <td width="80px" align="center">
               <span><strong>npm</strong></span><br>
-              <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"/>
+              <img height="32px"  src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"/>
             </td>
           </tr>
           <tr>
@@ -126,16 +126,24 @@
             </td>
             <td width="80px" align="center">
               <span><strong>RTL</strong></span><br>
-              <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
+              <img height="32px" src="https://testing-library.com/img/octopus-128x128.png">
             </td>
             <td width="80px" align="center">
               <span><strong>CY</strong></span><br>
-              <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg">
+              <img height="32px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg">
             </td>
            <td width="80px" align="center">
              <span><strong>Jasmine</strong></span><br>
-             <img height="32" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg">
+             <img height="32px" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg">
            </td>
+           <td width="80px" align="center">
+            <span><strong>Selenium</strong></span><br>
+            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+          </td>
+          <td width="80px" align="center">
+            <span><strong>Karma</strong></span><br>
+            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-original.svg">
+          </td>
             <tr>
               <td colspan="8" align="center"><strong>Others</strong></td>
             </tr>
@@ -150,19 +158,27 @@
               </td>
               <td width="80px" align="center">
                 <span><strong>PHP</strong></span><br>
-                <img height="32" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
+                <img height="32px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
               </td>
               <td width="80px" align="center">
                 <span><strong>Python</strong></span><br>
-                <img height="32" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+                <img height="32px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
               </td>
               <td width="80px" align="center">
                 <span><strong>Java</strong></span><br>
-                <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+                <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
               </td>
               <td width="80px" align="center">
                 <span><strong>Insomnia</strong></span><br>
-                <img src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/8370e7c8f1fbbfdb66f08a325a6c1cd8b932afb3/apps/scalable/insomnia.svg" />
+                <img height="32px" src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/8370e7c8f1fbbfdb66f08a325a6c1cd8b932afb3/apps/scalable/insomnia.svg" />
+              </td>
+              <td width="80px" align="center">
+                <span><strong>Linux</strong></span><br>
+                <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+              </td>
+              <td width="80px" align="center">
+                <span><strong>VsCode</strong></span><br>
+                <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
               </td>
         </tbody>
       </table>
