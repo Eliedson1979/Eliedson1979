@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times%2C+Times+New+Roman%2C+serif&size=30&pause=1000&center=verdadeiro&vCenter=falso&width=435&lines=Be+Welcome!)](https://git.io/typing-svg)
 
 ## My name is Eliedson Gomes: 
-<img align="right" height="200" width="200" alt="eliedson" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
+<img align="right" src="https://github.com/larrymahumot/larrymahumot/blob/main/networking.gif" alt="Coder GIF" width="250" height="250">
+<!-- <img align="right" height="200" width="200" alt="eliedson" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif"> -->
 
 * Moro em Caruaru-pernambuco-:brazil:.😎🌅
 * Atualmente Estudando Desenvolvimento Web pela TRYBE.🖥️🤤
@@ -31,7 +32,8 @@
   </tbody>
 </table>
   
-## Languages and Tools 🛠️:
+## Languages and Tools 🛠️: 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <table width="320px" align="center">
         <tbody>
           <tr>
@@ -195,14 +197,25 @@
 <img src="https://img.shields.io/badge/Logisim-Otimo-brightgreen"></img>
 <img src="https://img.shields.io/badge/VisualG-Otimo-red"></img>
 <img src="https://img.shields.io/badge/Scratch-Otimo-orange"></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## Index:
+## 📈 Activity Stats:
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eliedson1979&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Eliedson Gomes github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliedson1979&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
+<span>
+<a href="https://codeforces.com/profile/Eliedson1979">
+<img height="216" src="https://codeforces-readme-stats.vercel.app/api/card?username=Eliedson1979&theme=github_dark&force_username=true&border_color=404040" alt="Eliedson1979 Codeforces Stats"/>
+</a>
+<a href="https://leetcode.com/Eliedson1979">
+<img height="216" src="https://leetcard.jacoblin.cool/Eliedson1979?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Eliedson1979 Leetcode Stats"/>
+</a>
+</span>
+
 
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=Eliedson1979&theme=gotham&hide_border=true&area=true) -->
 
