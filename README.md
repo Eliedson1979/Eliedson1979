@@ -18,15 +18,15 @@
    <tr valign="top">
        <td width="80px" align="center">
        <span><strong>Facebook</strong></span><br>
-       <a target="_blank" href="https://www.facebook.com/eliedsonsantos1979"><img src="https://img.icons8.com/color/48/null/facebook-new.png"/></a>
+       <a target="_blank" href="https://www.facebook.com/eliedsonsantos1979"><img height="32px" src="https://img.icons8.com/color/48/null/facebook-new.png"/></a>
        </td>
        <td width="80px" align="center">
        <span><strong>Linkedin</strong></span><br>
-       <a target="_blank" href="https://www.linkedin.com/in/eliedson-gomes-41034b11a/"><img src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png"/></a>
+       <a target="_blank" href="https://www.linkedin.com/in/eliedson-gomes-41034b11a/"><img height="32px" src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png"/></a>
        </td>
        <td width="80px" align="center">
        <span><strong>Portfólio</strong></span><br>
-       <a target="_blank" href="https://eliedson-portfolio.netlify.app/"><img src="https://img.icons8.com/ios-filled/50/22C3E6/portfolio.png"/></a>
+       <a target="_blank" href="https://eliedson-portfolio.netlify.app/"><img height="32px" src="https://img.icons8.com/ios-filled/50/22C3E6/portfolio.png"/></a>
        </td>
    </tr> 
   </tbody>
@@ -58,7 +58,7 @@
             </td>
             <td width="80px" align="center">
               <span><strong>Redux</strong></span><br>
-              <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+              <img height="32px" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
             </td>
             <td width="80px" align="center">
               <span><strong>Figma</strong></span><br>
