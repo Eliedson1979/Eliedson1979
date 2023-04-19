@@ -147,7 +147,7 @@
             <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-original.svg">
           </td>
             <tr>
-              <td colspan="8" align="center"><strong>Others</strong></td>
+              <td colspan="8" align="center"><strong>DevOps</strong></td>
             </tr>
             <tr valign="top">
               <td width="80px" align="center">
