@@ -209,10 +209,10 @@
 
 <span>
 <a href="https://codeforces.com/profile/Eliedson1979">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Eliedson1979&theme=github_dark&force_username=true&border_color=404040" alt="Eliedson1979 Codeforces Stats"/>
+<img width="49%" height="300" src="https://codeforces-readme-stats.vercel.app/api/card?username=Eliedson1979&theme=github_dark&force_username=true&border_color=404040" alt="Eliedson1979 Codeforces Stats"/>
 </a>
 <a href="https://leetcode.com/Eliedson1979">
-<img height="316" src="https://leetcard.jacoblin.cool/Eliedson1979?theme=dark&font=Overpass%20Mono&ext=heatmap"/>
+<img width="49%" height="300" src="https://leetcard.jacoblin.cool/Eliedson1979?theme=dark&font=Overpass%20Mono&ext=heatmap"/>
 </a>
 </span>
 
