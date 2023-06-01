@@ -13,7 +13,7 @@ Sou programador e desenvolvedor há mais de 5 anos, um entusiasta da programaç�
 * Meu Email pra contato: eliedson.dev@gmail.com 📬
 
  
-## My Social Networks:
+## 💼 My Social Networks:
 <table width="320px">
   <tbody>
    <tr valign="top">
@@ -33,7 +33,7 @@ Sou programador e desenvolvedor há mais de 5 anos, um entusiasta da programaç�
   </tbody>
 </table>
   
-## Languages and Tools 🛠️: 
+## 🛠️ Languages and Tools: 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <table width="320px" align="center">
         <tbody>
