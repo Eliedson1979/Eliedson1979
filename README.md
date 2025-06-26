@@ -43,11 +43,11 @@ Sou programador e desenvolvedor, e um entusiasta da programação com paixão po
           <tr valign="top">
             <td width="80px" align="center">
               <span><strong>JavaScript</strong></span><br>
-              <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+              <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" />
             </td>
             <td width="80px" align="center">
               <span><strong>HTML5</strong></span><br>
-              <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+              <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
             </td>
             <td width="80px" align="center">
               <span><strong>CSS3</strong></span><br>
@@ -55,136 +55,172 @@ Sou programador e desenvolvedor, e um entusiasta da programação com paixão po
             </td>
             <td width="80px" align="center">
               <span><strong>React</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
             </td>
             <td width="80px" align="center">
               <span><strong>Redux</strong></span><br>
-              <img height="32px" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+              <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
             </td>
             <td width="80px" align="center">
               <span><strong>Figma</strong></span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+              <img height="32px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
             </td>
             <td width="80px" align="center">
               <span><strong>Bootstrap</strong></span><br>
-              <img height="32px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
+              <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
             </td>
             <td width="80px" align="center">
               <span><strong>Trello</strong></span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg">
+              <img height="32px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" />
             </td>
           </tr>
           <tr>
-            <td colspan="8" align="center"><strong>Back-End</strong></td>
+            <td colspan="8" align="center"><strong>Back-End I</strong></td>
           </tr>
           <tr valign="top">
             <td width="80px" align="center">
               <span><strong>TypeScript</strong></span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+              <img height="32px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
             </td>
+	            <td width="80px" align="center">
+              <span><strong>Angular</strong></span><br>
+               <img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" />
+              </td>  
             <td width="80px" align="center">
+              <span><strong>NodeJS</strong></span><br>
+              <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+            </td>           
+           <td width="80px" align="center">
               <span><strong>Express.js</strong></span><br>
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
             </td>
+           <td width="80px" align="center">
+              <span><strong>Docker</strong></span><br>
+              <img height="32px" src="https://img.icons8.com/fluency/48/null/docker.png" />
+            </td>
+             <td width="80px" align="center">
+              <span><strong>MySQL</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+            </td>
             <td width="80px" align="center">
               <span><strong>MongoDB</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-            </td>
-            <td width="80px" align="center">
-              <span><strong>MySQL</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-            </td>
-            <td width="80px" align="center">
-              <span><strong>NodeJS</strong></span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-            </td>
-            <td width="80px" align="center">
-              <span><strong>Docker</strong></span><br>
-              <img height="32px" src="https://img.icons8.com/fluency/48/null/docker.png"/>
-            </td>
+              <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
+            </td>           
             <td width="80px" align="center">
               <span><strong>Sequelize</strong></span><br>
               <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" />
             </td>
-            <td width="80px" align="center">
-              <span><strong>npm</strong></span><br>
-              <img height="32px"  src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"/>
-            </td>
           </tr>
-          <tr>
+             <tr>
+            <td colspan="8" align="center"><strong>Back-End II</strong></td>
+          </tr>
+	           <td width="80px" align="center">
+                <span><strong>Python</strong></span><br>
+                <img height="32" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+              </td>
+		              <td width="80px" align="center">
+                <span><strong>Java</strong></span><br>
+                <img height="32" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+              </td>
+               <td width="80px" align="center">
+              <span><strong>Flask</strong></span>
+              <img height="32" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" />
+            </td>
+	             <td width="80px" align="center">
+             <span><strong>Django</strong></span>
+             <img height="32" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" />
+           </td> 
+	            <td width="80px" align="center">
+           <span><strong>Spring</strong></span><br>
+           <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
+           </td>	
+             <td width="80px" align="center">
+             <span><strong>MSC</strong></span><br>
+             <img height="32px" src="https://user-images.githubusercontent.com/96168296/232324476-9102fc89-b213-4038-b778-bb6ca9bc0cbf.png" />
+           </td> 
+              <td width="80px" align="center">
+             <span><strong>POO</strong></span><br>
+             <img height="32px" src="https://user-images.githubusercontent.com/96168296/232327980-9879eec2-daa9-477a-b087-bfa0c6d95d5c.png" />
+           </td> 
+	            <td width="80px" align="center">
+              <span><strong>Npm</strong></span><br>
+              <img height="32px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"/>
+            </td>
+	         <tr>
             <td colspan="8" align="center"><strong>Tests</strong></td>
           </tr>
           <tr valign="top">
             <td width="80px" align="center">
+              <span><strong>RTL</strong></span><br>
+              <img height="32" src="https://testing-library.com/img/octopus-128x128.png" />
+            </td>
+            <td width="80px" align="center">
               <span><strong>Jest</strong></span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+              <img height="32px" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" />
             </td>
             <td width="80px" align="center">
               <span><strong>Mocha</strong></span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg">
+              <img height="32px" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" />
             </td>
             <td width="80px" align="center">
               <span><strong>Chai</strong></span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg">
-            </td>
+              <img height="32px" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" />
+            </td>            
             <td width="80px" align="center">
-              <span><strong>RTL</strong></span><br>
-              <img height="32px" src="https://testing-library.com/img/octopus-128x128.png">
+              <span><strong>Cypress</strong></span><br>
+              <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" />
             </td>
-            <td width="80px" align="center">
-              <span><strong>CY</strong></span><br>
-              <img height="32px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg">
-            </td>
+             <td width="80px" align="center">
+             <span><strong>ESLint</strong></span><br>
+             <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" />
+           </td> 
            <td width="80px" align="center">
-             <span><strong>Jasmine</strong></span><br>
-             <img height="32px" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg">
+             <span><strong>Pytest</strong></span><br>
+             <img height="32" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" />
            </td>
-           <td width="80px" align="center">
-            <span><strong>Selenium</strong></span><br>
-            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-          </td>
-          <td width="80px" align="center">
-            <span><strong>Karma</strong></span><br>
-            <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-original.svg">
-          </td>
+	            <td width="80px" align="center">
+             <span><strong>Nginx</strong></span><br>
+             <img height="32px" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" />
+           </td>         
             <tr>
-              <td colspan="8" align="center"><strong>DevOps</strong></td>
+             <td colspan="8" align="center"><strong>DevOps</strong></td>
             </tr>
-            <tr valign="top">
+            <tr valign="top">              
+            <td width="80px" align="center">
+             <span><strong>Git</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+              </td>
               <td width="80px" align="center">
                 <span><strong>GitHub</strong></span><br>
-                <img height="32px" src="https://img.icons8.com/ios-filled/50/12B886/github-2.png">
-              </td>
-              <td width="80px" align="center">
-                <span><strong>Git</strong></span><br>
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-              </td>
-              <td width="80px" align="center">
-                <span><strong>PHP</strong></span><br>
-                <img height="32px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
-              </td>
-              <td width="80px" align="center">
-                <span><strong>Python</strong></span><br>
-                <img height="32px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
-              </td>
-              <td width="80px" align="center">
-                <span><strong>Java</strong></span><br>
-                <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-              </td>
-              <td width="80px" align="center">
-                <span><strong>Insomnia</strong></span><br>
-                <img height="32px" src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/8370e7c8f1fbbfdb66f08a325a6c1cd8b932afb3/apps/scalable/insomnia.svg" />
-              </td>
-              <td width="80px" align="center">
+                <img height="32px" src="https://img.icons8.com/ios-filled/50/12B886/github-2.png" />                 
+              </td> 
+               <td width="80px" align="center">
+                <span><strong>VSCode</strong></span><br>
+                <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+              </td>           
+               <td width="80px" align="center">
+                <span><strong>AWS</strong><span><br>
+                  <img height="32" width="50" src="https://img.icons8.com/color/256/amazon-web-services.png" />
+                  </td>
+                   <td width="80px" align="center">
+                <span><strong>Kubernetes</strong><span><br>
+                  <img height="32" width="" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" />
+                  </td>
+                   <td width="80px" align="center">
+                <span><strong>Terraform</strong></span><br>
+                <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" />
+              </td> 
+		              <td width="80px" align="center">
                 <span><strong>Linux</strong></span><br>
-                <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-              </td>
-              <td width="80px" align="center">
-                <span><strong>VsCode</strong></span><br>
-                <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-              </td>
-        </tbody>
+                <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
+              </td> 	
+                <td width="80px" align="center">
+               <span><strong>Microsoft</strong></span><br>
+               <img height="32px" src="https://user-images.githubusercontent.com/96168296/232350672-71f212b2-1e87-406d-ab33-8bc0d8ea1f99.png" />
+               </td>
+	 </tbody>
       </table>
+
 
 ## Framework I use:
 <img src="https://img.shields.io/badge/Visual%20Code-Otimo-green"></img>
