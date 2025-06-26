@@ -2,11 +2,11 @@
 Sou programador e desenvolvedor, e um entusiasta da programação com paixão por resolver problemas complexos e criar soluções inovadoras. Com experiência em várias linguagens de programação, meu objetivo é contribuir para projetos empolgantes que desafiem minhas habilidades e me permitam aprender e crescer como desenvolvedor. Tenho conhecimentos em desenvolvimento web, incluindo front-end e back-end, e estou constantemente buscando novas tecnologias e frameworks para expandir meu conjunto de habilidades. Estou aberto a colaborações e oportunidades de trabalho interessantes. Vamos construir algo incrível juntos!"
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times%2C+Times+New+Roman%2C+serif&size=30&pause=1000&center=verdadeiro&vCenter=falso&width=435&lines=Be+Welcome!)](https://git.io/typing-svg)
-<br>
+
 ## Contato 📬: 
 <img align="right" src="https://github.com/larrymahumot/larrymahumot/blob/main/networking.gif" alt="Coder GIF" width="250" height="250">
 <!-- <img align="right" height="200" width="200" alt="eliedson" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif"> -->
-<br>
+
 * Meu Email: eliedson.dev@gmail.com 📬
 * LinkedIn: https://www.linkedin.com/in/eliedson-gomes/
 * WhatsApp: (+55) 81-99928-0870
