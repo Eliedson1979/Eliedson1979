@@ -251,6 +251,7 @@ Sou programador e desenvolvedor, e um entusiasta da programação com paixão po
 <img width="48%" height="100px" src="https://leetcard.jacoblin.cool/Eliedson1979?theme=dark&font=Overpass%20Mono&ext=heatmap"/>
 </a>
 </div>
+<br>
 
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=Eliedson1979&theme=gotham&hide_border=true&area=true) -->
 
