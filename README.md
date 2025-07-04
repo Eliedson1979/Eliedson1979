@@ -239,16 +239,16 @@ Sou programador e desenvolvedor, e um entusiasta da programação com paixão po
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <div align="center">  
-  <img width="400" height="30px" src="https://github-readme-stats.vercel.app/api?username=Eliedson1979&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Eliedson Gomes github stats" /> 
-  <img width="300" height="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliedson1979&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eliedson1979&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Eliedson Gomes github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliedson1979&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <span>
 <a href="https://codeforces.com/profile/Eliedson1979">
-<img width="300" height="600px" src="https://codeforces-readme-stats.vercel.app/api/card?username=Eliedson1979&theme=github_dark&force_username=true&border_color=404040" alt="Eliedson1979 Codeforces Stats"/>
+<img width="49%" height="195px" src="https://codeforces-readme-stats.vercel.app/api/card?username=Eliedson1979&theme=github_dark&force_username=true&border_color=404040" alt="Eliedson1979 Codeforces Stats"/>
 </a>
 <a href="https://leetcode.com/Eliedson1979">
-<img width="300" height="600px" src="https://leetcard.jacoblin.cool/Eliedson1979?theme=dark&font=Overpass%20Mono&ext=heatmap"/>
+<img width="49%" height="195px" src="https://leetcard.jacoblin.cool/Eliedson1979?theme=dark&font=Overpass%20Mono&ext=heatmap"/>
 </a>
 </span>
 
