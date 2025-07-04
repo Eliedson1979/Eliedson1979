@@ -33,7 +33,7 @@ Sou programador e desenvolvedor, e um entusiasta da programação com paixão po
 </table>
   
 ## 🛠️ Minhas Stacks: 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 <table width="320px" align="center">
         <tbody>
           <tr>
