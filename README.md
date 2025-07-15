@@ -7,8 +7,7 @@ Sou programador e desenvolvedor, e um entusiasta da programação com paixão po
 <img align="right" src="https://github.com/larrymahumot/larrymahumot/blob/main/networking.gif" alt="Coder GIF" width="250" height="250">
 <!-- <img align="right" height="200" width="200" alt="eliedson" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif"> -->
 
-* Meu Email: eliedson.dev@gmail.com 📬
-* LinkedIn: https://www.linkedin.com/in/eliedson-gomes/
+* Meu Email: eliedson.dev@gmail.com 📬 
 * WhatsApp: (+55) 81-99928-0870
 <br>
 
@@ -22,7 +21,7 @@ Sou programador e desenvolvedor, e um entusiasta da programação com paixão po
        </td>
        <td width="80px" align="center">
        <span><strong>Linkedin</strong></span><br>
-       <a target="_blank" href="https://www.linkedin.com/in/eliedson-gomes-41034b11a/"><img height="32px" src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png"/></a>
+       <a target="_blank" href="https://www.linkedin.com/in/eliedson-gomes/"><img height="32px" src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png"/></a>
        </td>
        <td width="80px" align="center">
        <span><strong>Portfólio</strong></span><br>
