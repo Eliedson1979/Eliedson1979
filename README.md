@@ -266,7 +266,7 @@ Sou programador e desenvolvedor, e um entusiasta da programação com paixão po
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=your-github-Eliedson1979" /></p> 
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=your-github-Eliedson1979&base=1000" /></p> 
 <br></div
 
 
