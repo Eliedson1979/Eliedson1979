@@ -1,4 +1,5 @@
-## <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Olá, eu sou Eliedson Gomes
+## <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Eliedson%20Gomes%20👨‍💻&fontAlign=50&fontAlignY=35&color=0:007CF0,100:00DF88&fontColor=ffffff&fontSize=40&desc=Full%20Stack%20Developer%20|%20ReactJS%20•%20NestJS%20•%20Node.js%20•%20TypeScript&descAlignY=55&descAlign=50&animation=fadeIn"/>
+
 Sou programador e desenvolvedor, e um entusiasta da programação com paixão por resolver problemas complexos e criar soluções inovadoras. Com experiência em várias linguagens de programação, meu objetivo é contribuir para projetos empolgantes que desafiem minhas habilidades e me permitam aprender e crescer como desenvolvedor. Tenho conhecimentos em desenvolvimento web, incluindo front-end e back-end, e estou constantemente buscando novas tecnologias e frameworks para expandir meu conjunto de habilidades. Estou aberto a colaborações e oportunidades de trabalho interessantes. Vamos construir algo incrível juntos!"
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times%2C+Times+New+Roman%2C+serif&size=30&pause=1000&center=verdadeiro&vCenter=falso&width=435&lines=Be+Welcome!)](https://git.io/typing-svg)
