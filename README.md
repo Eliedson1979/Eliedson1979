@@ -246,20 +246,20 @@ Estou aberto a oportunidades de trabalho, colaborações e networking. Vamos con
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <div align="center">
-<img width="83%" src="https://streak-stats.demolab.com?user=Eliedson1979&theme=tokyonight&hide_border=true&card_width=1000"
-alt="GitHub Streak"
-/>
-</div>
 
-<div align="center">
+<img width="100%" src="https://streak-stats.demolab.com?user=Eliedson1979&theme=tokyonight&hide_border=true&card_width=1000" alt="GitHub Streak"/>
+
+<br><br>
+
 <a href="https://codeforces.com/profile/Eliedson1979">
-<img width="43%" height="270px" src="https://codeforces-readme-stats.vercel.app/api/card?username=Eliedson1979&theme=github_dark&force_username=true&border_color=404040" alt="Eliedson1979 Codeforces Stats"/>
+  <img width="49%" src="https://codeforces-readme-stats.vercel.app/api/card?username=Eliedson1979&theme=github_dark&force_username=true&border_color=404040" alt="Codeforces Stats"/>
 </a>
+
 <a href="https://leetcode.com/Eliedson1979">
-<img width="44%" height="280px" src="https://leetcard.jacoblin.cool/Eliedson1979?theme=dark&font=Overpass%20Mono&ext=heatmap"/>
+  <img width="49%" src="https://leetcard.jacoblin.cool/Eliedson1979?theme=dark&font=Overpass%20Mono&ext=heatmap" alt="LeetCode Stats"/>
 </a>
+
 </div>
-<br>
 
 
 
