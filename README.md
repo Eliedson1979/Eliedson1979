@@ -1,6 +1,13 @@
 ## <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Eliedson%20Gomes%20👨‍💻&fontAlign=50&fontAlignY=35&color=0:007CF0,100:00DF88&fontColor=ffffff&fontSize=40&desc=Developer%20Full%20Cycle%20BackEnd%20|%20Python%20•%20FastApi%20•%20Flask%20•%20PostgreSql&descAlignY=55&descAlign=50&animation=fadeIn"/>
 
-Sou programador e desenvolvedor, e um entusiasta da programação com paixão por resolver problemas complexos e criar soluções inovadoras. Com experiência em várias linguagens de programação, meu objetivo é contribuir para projetos empolgantes que desafiem minhas habilidades e me permitam aprender e crescer como desenvolvedor. Tenho conhecimentos em desenvolvimento web, incluindo front-end e back-end, e estou constantemente buscando novas tecnologias e frameworks para expandir meu conjunto de habilidades. Estou aberto a colaborações e oportunidades de trabalho interessantes. Vamos construir algo incrível juntos!"
+Sou Desenvolvedor Full-Stack e entusiasta da tecnologia, apaixonado por resolver problemas complexos e criar soluções inovadoras. Tenho experiência no desenvolvimento de aplicações web, atuando tanto no front-end quanto no back-end, utilizando diferentes linguagens, frameworks e boas práticas de engenharia de software.
+
+Atualmente, estou em processo de migração para o ecossistema **ServiceNow**, direcionando minha carreira para o desenvolvimento e implementação de soluções na plataforma. Venho me aprofundando em **ITSM**, automação de processos, desenvolvimento de aplicações, integrações e customizações, buscando unir minha experiência em desenvolvimento de software às capacidades da plataforma ServiceNow.
+
+Estou sempre em busca de novos desafios, aprendizado contínuo e oportunidades para colaborar em projetos inovadores. Meu objetivo é contribuir com soluções que gerem valor para os negócios, aplicando boas práticas de desenvolvimento, arquitetura de software e transformação digital.
+
+Estou aberto a oportunidades de trabalho, colaborações e networking. Vamos construir algo incrível juntos! 🚀
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times%2C+Times+New+Roman%2C+serif&size=30&pause=1000&center=verdadeiro&vCenter=falso&width=435&lines=Be+Welcome!)](https://git.io/typing-svg)
 
@@ -238,20 +245,23 @@ Sou programador e desenvolvedor, e um entusiasta da programação com paixão po
 ## 📈 Estatísticas de atividades:
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eliedson1979&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Eliedson Gomes github stats" /> 
-  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliedson1979&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<div align="center">
+<img width="83%" src="https://streak-stats.demolab.com?user=Eliedson1979&theme=tokyonight&hide_border=true&card_width=1000"
+alt="GitHub Streak"
+/>
 </div>
 
 <div align="center">
 <a href="https://codeforces.com/profile/Eliedson1979">
-<img width="43%" height="280px" src="https://codeforces-readme-stats.vercel.app/api/card?username=Eliedson1979&theme=github_dark&force_username=true&border_color=404040" alt="Eliedson1979 Codeforces Stats"/>
+<img width="43%" height="270px" src="https://codeforces-readme-stats.vercel.app/api/card?username=Eliedson1979&theme=github_dark&force_username=true&border_color=404040" alt="Eliedson1979 Codeforces Stats"/>
 </a>
 <a href="https://leetcode.com/Eliedson1979">
-<img width="43%" height="270px" src="https://leetcard.jacoblin.cool/Eliedson1979?theme=dark&font=Overpass%20Mono&ext=heatmap"/>
+<img width="44%" height="270px" src="https://leetcard.jacoblin.cool/Eliedson1979?theme=dark&font=Overpass%20Mono&ext=heatmap"/>
 </a>
 </div>
 <br>
+
+
 
 ## 🏆 Certificação
 <p align="center">
