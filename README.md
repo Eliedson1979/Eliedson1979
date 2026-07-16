@@ -253,22 +253,26 @@ Sou programador e desenvolvedor, e um entusiasta da programação com paixão po
 </div>
 <br>
 
+## 🏆 Certificação
+<p align="center">
+  <a href="https://www.credly.com/badges/410ec9be-9105-40bb-b2eb-f21624cd7d24">
+    <img
+      src="https://images.credly.com/size/340x340/images/5a1dc59c-5961-40f6-88dd-3e6c366a3620/Credential_Badge_-_Micro-Cert_-_Welcome_to_ServiceNow.png"
+      alt="Micro-Certification - Welcome to ServiceNow"
+      width="140"
+    />
+  </a>
+</p>
+
+
+
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=Eliedson1979&theme=gotham&hide_border=true&area=true) -->
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Eliedson1979&theme=gotham)](https://github.com/Eliedson1979/github-readme-activity-graph) -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eliedson1979&theme=gotham)](https://github.com/Eliedson1979/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Eliedson1979&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=your-github-Eliedson1979&base=1000" /></p> 
-<br></div
 
 
 <div align="center">
